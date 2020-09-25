@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-image: url("https://www.funbrain.com/assets/img/content-cards/F2qRmLhRnmebc8jJAUjr_GuessTheNumber%403x.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: serif;
+}
+
+h1 {
+    margin: 60px auto 60px;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+#res {
+    font-weight: 700;
+    font-size: 24px;
+}
+
+#count {
+    font-weight: 400;
+    font-size: 16px;
+}
